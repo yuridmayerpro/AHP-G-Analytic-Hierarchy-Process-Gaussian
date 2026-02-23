@@ -1,6 +1,6 @@
 # AHP-G: Analytic Hierarchy Process Gaussian
 
-This repository contains the implementation of the **Gaussian AHP (AHP-G)** method, a Multi-Criteria Decision Making (MCDM) tool designed to rank alternatives based on multiple operational and economic criteria.
+This repository contains the implementation of the **Gaussian AHP (AHP-G)** method, a Multi-Criteria Decision Making (MCDM) tool designed to rank alternatives based on multiple criteria.
 
 ## Description
 The algorithm automates the selection of alternatives by using data variation to determine weights, reducing subjectivity and the cognitive effort required for exhaustive pairwise comparisons. The methodology is based on the study by **Santos, Costa, and Gomes (2021)** on the selection of warships for the Brazilian Navy.
@@ -71,5 +71,6 @@ The generated ranking reflects the precision of the sensitivity analysis describ
 SANTOS, M.; COSTA, I. P. A.; GOMES, C. F. S. Multicriteria decision-making in the selection of warships: a new approach to the AHP method. **International Journal of the Analytic Hierarchy Process**, v. 13, n. 1, 2021. DOI: [10.13033/ijahp.v13i1.833](https://doi.org/10.13033/ijahp.v13i1.833).
 
 ---
+
 
 **Author**: Erik Yuri Dutzig
